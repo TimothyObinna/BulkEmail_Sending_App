@@ -1,1 +1,1 @@
-# BulkSms_Sending_App
+This is an app used to send bulk  sms.
